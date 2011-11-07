@@ -1,0 +1,4 @@
+graft images
+graft include
+graft utils
+include vnc.html vnc_auto.html favicon.ico version.py
